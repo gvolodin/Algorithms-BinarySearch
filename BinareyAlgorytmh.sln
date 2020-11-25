@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinareyAlgorytmh", "BinareyAlgorytmh\BinareyAlgorytmh.csproj", "{489AC5CA-38F2-48CC-92AC-C288A935F1D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{489AC5CA-38F2-48CC-92AC-C288A935F1D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{489AC5CA-38F2-48CC-92AC-C288A935F1D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{489AC5CA-38F2-48CC-92AC-C288A935F1D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{489AC5CA-38F2-48CC-92AC-C288A935F1D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B564690-91ED-49E0-9ADA-6CF907ACD9E6}
+	EndGlobalSection
+EndGlobal
